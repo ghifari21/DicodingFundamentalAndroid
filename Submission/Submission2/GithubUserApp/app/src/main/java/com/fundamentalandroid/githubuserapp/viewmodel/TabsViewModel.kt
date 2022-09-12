@@ -24,9 +24,9 @@ class TabsViewModel : ViewModel() {
         _isLoading.value = true
 
         val client = if (index == 0) {
-            ApiConfig.getApiService().getFollowers(username)
+            ApiConfig.getApiService().getFollow(username, "followers")
         } else {
-            ApiConfig.getApiService().getFollowing(username)
+            ApiConfig.getApiService().getFollow(username, "following")
         }
 
         client.enqueue(object : Callback<List<User>> {

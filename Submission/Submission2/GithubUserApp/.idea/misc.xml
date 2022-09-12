@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Code/MSIB-Dicoding/Fundamental-Android/Submission/Submission2/GithubUserApp/app/src/main/res/layout/activity_main.xml" value="0.29483695652173914" />
+        <entry key="..\:/Code/MSIB-Dicoding/Fundamental-Android/Submission/Submission2/GithubUserApp/app/src/main/res/drawable/ic_octicons_mark_github_white.xml" value="0.308" />
+        <entry key="..\:/Code/MSIB-Dicoding/Fundamental-Android/Submission/Submission2/GithubUserApp/app/src/main/res/layout/activity_detail.xml" value="0.5" />
+        <entry key="..\:/Code/MSIB-Dicoding/Fundamental-Android/Submission/Submission2/GithubUserApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Code/MSIB-Dicoding/Fundamental-Android/Submission/Submission2/GithubUserApp/app/src/main/res/layout/activity_splash.xml" value="0.29483695652173914" />
+        <entry key="..\:/Code/MSIB-Dicoding/Fundamental-Android/Submission/Submission2/GithubUserApp/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Code/MSIB-Dicoding/Fundamental-Android/Submission/Submission2/GithubUserApp/app/src/main/res/layout/fragment_tabs.xml" value="0.1503531786074672" />
+        <entry key="..\:/Code/MSIB-Dicoding/Fundamental-Android/Submission/Submission2/GithubUserApp/app/src/main/res/layout/item_user.xml" value="0.5803571428571429" />
       </map>
     </option>
   </component>
